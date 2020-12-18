@@ -1,5 +1,5 @@
 
-# Control flow, Functions, and Statistics - Introduction 
+# Control Flow, Functions, and Statistics - Introduction 
 
 ## Introduction
 In this section, you'll learn about creating functions in Python, iterating over nested loops, and using basic statistics to measure aspects of different datasets. 
